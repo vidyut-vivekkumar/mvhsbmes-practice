@@ -1,1 +1,1 @@
-# mvhsbmes-practice
+Materials and starting information for kNN practice.
