@@ -6,9 +6,9 @@ To begin, clone this repository using `git clone`. When cloning, I recommend usi
 
 Create a new file in the repository, on your local device. Make sure to include your name in the filename. After creating the file, code your project in this file. Alternatively, you can move a file from another directory to the respository (using `mv`), and then rename it. Make sure to ad your file to the staging area using `git add`.
 
-Make sure to use `git commit` regularly to ensure that Git saves your progress, allowing you to revert to an earlier version if you mess something up. When you are done with your project, use `git push` to push your local branch to the remote repository.
+Make sure to use `git commit` regularly to ensure that Git saves your progress, allowing you to revert to an earlier version if you mess something up. Use `git push` to add your changes to the project to the remote repository (the one on GitHub). I recommend using `git push` at least once a day, so that others can see what you're doing!
 
-If you want to get changes to the repository (like seeing other people's projects), you can use `git pull` to do so. I recommend doing this at least once to see how it works and get used to it.
+If you want to get the changes to the remote repository on your local repository (like seeing other people's projects), you can use `git pull` to do so. I recommend doing this at least once to see how it works and get used to it. You can always check GitHub too.
 
 The reason that we're doing all this is to familiarize ourselves with Git. Git is very useful for version tracking and collaborative workflows like what we'll have to do on our main project, so it's a good idea to get used to it in a lower stakes environment. Even if you delete the entire repository, that's ok :P
 
